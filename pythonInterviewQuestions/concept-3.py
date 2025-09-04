@@ -13,3 +13,4 @@ except Exception as e:
 finally: # will execute irrespective if test fails
     print("close database connection, clean up resources")
 
+#adding additional lines just to test git functionality 
